@@ -4,7 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
-
+body{
+  background: linear-gradient(#1a1919, #423c3c) ;
+  color: white;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
